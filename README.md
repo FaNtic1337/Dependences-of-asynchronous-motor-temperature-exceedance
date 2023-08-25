@@ -5,7 +5,7 @@
 
 - [Теория](##Теория)
   - [Режимы работы](###Режимы-работы)
-- [Описание основных режимов](README.md#описание-основных-режимов)
+- [Описание основных режимов](https://github.com/FaNtic1337/Dependences-of-asynchronous-motor-temperature-exceedance#%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)
 
 ---
 
