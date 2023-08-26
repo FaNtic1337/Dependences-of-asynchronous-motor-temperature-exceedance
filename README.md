@@ -3,11 +3,6 @@
 
 ---
 
-<style>
-  ul{
-    list-style:none;
-  }
-</style>
 <ul>
   <li>
     <a href="#S2">S2</a>
